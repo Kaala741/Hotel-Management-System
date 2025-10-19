@@ -85,10 +85,10 @@ Hotel-Management-System/
 ## 📸 Demo
 
 ### 🏠 Screenshot 1: Home Page  
-![Home Page](screenshots/user-dashboard.png)
+![Home Page](readme-source/Screenshot(287).png)
 
 ### 📋 Screenshot 2: Bookings Info  
-![Bookings Info](screenshots/admin-panel.png)
+![Bookings Info](readme-source/Screenshot(286).png)
 
 ### 📋 Demo Video:   
 ![Demo Video](screenshots/admin-panel.png)
