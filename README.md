@@ -84,14 +84,17 @@ Hotel-Management-System/
 
 ## 📸 Demo
 
-### 🏠 Screenshot 1: Home Page  
-![Home Page](readme-source/Screenshot1.png)
+### 🏠 Screenshot 1: Login Page  
+![Login Page](readme-source/Screenshot1.png)
 
-### 📋 Screenshot 2: Bookings Info  
-![Bookings Info](readme-source/Screenshot2.png)
+### 📋 Screenshot 2: Home Page  
+![Home Page](readme-source/Screenshot2.png)
 
-### 📋 Demo Video:   
-![Demo Video](readme-source/demo.mp4)
+### 📋 Screenshot 3: Booking Page
+![Booking page](readme-source/Screenshot2.png)
+
+### 📋 Screenshot 4: Profile Info  
+![Profile Info](readme-source/Screenshot2.png)
 
 ---
 
