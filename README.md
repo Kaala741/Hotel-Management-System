@@ -16,3 +16,65 @@ It follows a **modular backend architecture**, utilizes **DTOs** for data flow o
 - 📱 **Responsive Frontend** — Built with React.js for seamless UX.  
 - ⚙️ **Pagination & Filtering** — Efficient data browsing for large datasets.  
 - 🧩 **Modular Architecture** — Clean separation of layers for scalability.
+
+## 🧠 Tech Stack
+
+| **Layer**          | **Technology** |
+|--------------------|----------------|
+| **Frontend**       | React.js, Axios, React Router DOM |
+| **Backend**        | Spring Boot, Spring Security, JPA/Hibernate |
+| **Database**       | MySQL / PostgreSQL |
+| **Authentication** | JWT |
+| **Cloud Storage**  | AWS S3 |
+| **Build Tools**    | Maven, npm |
+| **Deployment**     | AWS EC2 / Localhost |
+
+---
+
+## 🏗️ Project Structure
+
+Hotel-Management-System/
+│
+├── backend/
+│   ├── pom.xml
+│   ├── mvnw
+│   ├── mvnw.cmd
+│   ├── HELP.md
+│   ├── README.md
+│   └── src/
+│       └── main/java/com/Kaala_dev/HSM/
+│           ├── controller/       # REST Controllers
+│           ├── dto/              # Data Transfer Objects
+│           ├── entity/           # Database Entities
+│           ├── exception/        # Custom Exceptions
+│           ├── repo/             # JPA Repositories
+│           ├── security/         # JWT & Security Config
+│           ├── service/          # Business Logic Layer
+│           ├── utils/            # Helper Functions
+│           └── HsmApplication.java
+│
+├── frontend/
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── README.md
+│   ├── public/
+│   │   ├── assets/images/        # Image files
+│   │   ├── favicon.ico
+│   │   ├── index.html
+│   │   ├── logo192.png
+│   │   ├── logo512.png
+│   │   ├── manifest.json
+│   │   └── robots.txt
+│   │
+│   └── src/
+│       ├── component/            # UI Components
+│       ├── service/              # API & Axios Calls
+│       ├── App.js
+│       ├── App.css
+│       ├── index.js
+│       ├── index.css
+│       ├── reportWebVitals.js
+│       ├── setupTests.js
+│       └── logo.svg
+│
+└── screenshots/                  # (Add UI screenshots here)
