@@ -133,12 +133,6 @@ npm start
 
 ---
 
-## 📊 Reporting & Monitoring
-
-- **Spring Boot Actuator** — For health metrics and monitoring  
-- **Centralized Logging** — Track API activity and errors  
-- **Error Handling** — Managed via custom exceptions
-
 ---
 
 ## **License** 
