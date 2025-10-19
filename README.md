@@ -91,10 +91,10 @@ Hotel-Management-System/
 ![Home Page](readme-source/Screenshot2.png)
 
 ### 📋 Screenshot 3: Booking Page
-![Booking page](readme-source/Screenshot2.png)
+![Booking page](readme-source/Screenshot3.png)
 
 ### 📋 Screenshot 4: Profile Info  
-![Profile Info](readme-source/Screenshot2.png)
+![Profile Info](readme-source/Screenshot4.png)
 
 ---
 
