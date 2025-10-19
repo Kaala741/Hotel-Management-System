@@ -79,6 +79,9 @@ Hotel-Management-System/
 │ └── logo.svg
 
 ```
+
+---
+
 ## 📸 Demo
 
 ### 🏠 Screenshot 1: Home Page  
@@ -89,3 +92,56 @@ Hotel-Management-System/
 
 ### 📋 Demo Video:   
 ![Demo Video](screenshots/admin-panel.png)
+
+---
+
+## 🧾 Documentation Includes
+
+- **API Endpoints**  
+- **System Design Diagram**  
+- **Entity Relationship Diagram (ERD)**  
+- **Authentication Flow (JWT)**  
+- **Database Schema Overview**  
+
+---
+
+## 🧮 Build & Run Instructions
+
+### 🔹 Backend Setup
+```bash
+cd backend
+mvn clean install
+mvn spring-boot:run
+```
+
+### 🔹 Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm start
+```
+---
+
+## ⚙️ Requirements
+
+- Node.js (v16+)
+- Java JDK 17+
+- Maven
+- MySQL / PostgreSQL
+- AWS credentials (for S3 integration)
+
+---
+
+## 📊 Reporting & Monitoring
+
+- **Spring Boot Actuator** — For health metrics and monitoring  
+- **Centralized Logging** — Track API activity and errors  
+- **Error Handling** — Managed via custom exceptions
+
+---
+
+## **License** 
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
