@@ -91,7 +91,7 @@ Hotel-Management-System/
 ![Bookings Info](readme-source/Screenshot2.png)
 
 ### 📋 Demo Video:   
-![Demo Video](screenshots/admin-panel.png)
+![Demo Video](readme-source/demo.mp4)
 
 ---
 
